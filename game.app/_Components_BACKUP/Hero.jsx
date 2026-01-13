@@ -12,7 +12,7 @@ const Hero = () => {
   const [IsVideoClicked, setIsVideoClicked] = useState(false);
   const [LoadedVideos, setLoadedVideos] = useState(0);
 
-  const videoSrc = (index) => `/videos/hero-${index}.mp4`; // Base path for videos
+  const videoSrc = (index) => `videos/hero-${index}.mp4`; // Base path for videos
   
   // Create separate refs for each video element
   const currentVideoRef = useRef(null);

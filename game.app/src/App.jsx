@@ -1,24 +1,23 @@
-import React from 'react'
-import Navbar from '../Components/Navbar'
-import Hero from '../Components/Hero'
-import About from '../Components/About'
-import Features from '../Components/Features'
-import Story from '../Components/Story'
-import Contact from '../Components/Contact'
-import Footer from '../Components/Footer'
+import Navbar from "./Components/Navbar";
+import Hero from "./Components/Hero";
+import About from "./Components/About";
+import Features from "./Components/Features";
+import Story from "./Components/Story";
+import Contact from "./Components/Contact";
+import Footer from "./Components/Footer";
 
-const App = () => {
+function App() {
   return (
-    <div className='w-full h-full overflow-x-hidden'>
+    <main className="relative min-h-screen w-screen overflow-x-hidden">
       <Navbar />
-      <Hero/>
-      <About/>
-      <Features/>
-      <Story/>
-      <Contact/>
-      <Footer/>
-      </div>
-  )
+      <Hero />
+      <About />
+      <Features />
+      <Story />
+      <Contact />
+      <Footer />
+    </main>
+  );
 }
 
-export default App
+export default App;

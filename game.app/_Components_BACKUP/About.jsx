@@ -56,7 +56,7 @@ gsap.registerPlugin(ScrollTrigger);
 <div className='h-[100vh] flex justify-center z-40  ' id='about'>
     <div
      className='mask-clip-path mb-10  w-[400px] h-[300px] rounded-2xl  ' >
-        <img src='/img/about.webp' alt="about image"  className='w-full h-full object-cover rounded-2xl '/>
+        <img src='img/about.webp' alt="about image"  className='w-full h-full object-cover rounded-2xl '/>
     </div>
 </div>
  <div className="absolute bottom-0   text-center w-full mt-5 ">

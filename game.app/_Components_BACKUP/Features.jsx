@@ -31,7 +31,7 @@ const Features = () => {
       </div>
 
       <div className= "z-50 border-amber-50 relative mb-7 h-96 w-full overflow-hidden rounded-md md:h-[65vh]" >    
-       <Card  src="/videos/feature-1.mp4"  title={"zigbmba" }
+       <Card  src="videos/feature-1.mp4"  title={"zigbmba" }
              description="An anime and gaming-inspired NFT collection - the IP primed for expansion."
        />
        </div>
@@ -40,7 +40,7 @@ const Features = () => {
 <div className='flex h-[135vh] w-full  gap-5 '>
     <div className='h-[120vh] w-[50%] relative '>
     <div className=' relative mb-7 h-[105vh]  w-full overflow-hidden  rounded-md '>
-<Card  src="/videos/feature-2.mp4"  title={"Radiant" }
+<Card  src="videos/feature-2.mp4"  title={"Radiant" }
        description="A cross-platform metagame app, turning your activities across Web2 and Web3 games into a rewarding adventure."
        />
     </div>
@@ -56,12 +56,12 @@ const Features = () => {
 
 <div className='h-[100vh] w-[50%] relative flex-cols '>
     <div className=' relative mb-7 h-[50vh]  w-full overflow-hidden  rounded-md '>
-<Card  src="/videos/feature-3.mp4"  title={"Nbebxus" }
+<Card  src="videos/feature-3.mp4"  title={"Nbebxus" }
        description="A gamified social hub, adding a new dimension of play to social interaction for Web3 communities."
        />
     </div>
     <div className=' relative mb-7 h-[50vh]  w-full overflow-hidden  rounded-md '>
-<Card  src="/videos/feature-4.mp4"  title={"Azbubi" }
+<Card  src="videos/feature-4.mp4"  title={"Azbubi" }
        description="A cross-world AI Agent - elevating your gameplay to be more fun and productive.."
        />
     </div>
@@ -79,7 +79,7 @@ const Features = () => {
 
 
 <div className=' relative mb-7 h-[40vh]  w-[50%] overflow-hidden  rounded-md '>
-<Card  src="/videos/feature-5.mp4"  title={"Nbebxus" }
+<Card  src="videos/feature-5.mp4"  title={"Nbebxus" }
        description="A gamified social hub, adding a new dimension of play to social interaction for Web3 communities."
        />
     </div>
