@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://medhat1919.github.io/Animation.app",
+  "homepage": "https://medhat1919.github.io/Game-App-With-GSAP",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
